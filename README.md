@@ -1,7 +1,7 @@
 <div align="center">
   <h2 color="blue">Denilson Ribeiro de França - Infotec na area.</h2>
 </div>
-  <div align="center">
+  <div align="inline">
   <a href="https://github.com/DenilsonRibeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenilsonRibeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenilsonRibeiro&layout=compact&langs_count=7&theme=dark"/>
