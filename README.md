@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 color="blue">Denilson Ribeiro de França - Infotec na area.</h2>
+  <h2 color="blue">Denilson Ribeiro de França - Infotec na área.</h2>
 </div>
   <div align="center">
   <a href="https://github.com/DenilsonRibeiro">
